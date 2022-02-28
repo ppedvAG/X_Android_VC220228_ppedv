@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">X_Android</string>
     <string name="action_settings">Settings</string>
+
+  <string name="activity_main_Txv_Anweisung_Text">Bitte gib eine Zahl ein:</string>
+  <string name="activity_main_Edt_Input_Hint">Zahl eingeben</string>
 </resources>
